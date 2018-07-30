@@ -1,0 +1,13 @@
+{
+  "short_name": "MC Proxy",
+  "name": "Mission Control Mobile Proxy",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "MC Proxy"
+  },
+  "version": "1.0",
+  "permissions": [
+    "proxy"
+  ]
+}
